@@ -1,6 +1,6 @@
 # my_course
 
-###Desciption
+### Desciption
 Test of Github functionality
 
 
